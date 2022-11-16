@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+} 
+body{
+    background-color: #56a9cd;
+}
+.encabezado{
+    text-align: center;
+}
+/* imagen del card inicial */
+#imagen1{
+    width: 75px;
+    height: 75px;
+    margin: 7px auto;
+}
+#card1{
+    margin: 10px;
+    text-align: center;
+    margin-top: 20%;
+    border: 1px solid #56a9cd;
+    
+    
+}
+
+/* .marcos{
+    border: 2px solid red;
+} */
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.imagenes{
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+    
+}
+.contenedor{
+    background-color: white;
+    width: 100%;
+}
+#fijo{
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+}
+
+
+#otro
+{
+    background-color: #83858C;
+}
+
+
+.enviar{
+    margin-bottom: 10px;
+}
+
+.centrado{
+    text-align: center; 
+   
+}
+
+.otros
+{
+    background-color: #485689;
+
+}
+@font-face {
+    font-family: '321impact';
+    src: url(Fuente/321impact.ttf);
+}
+#fuente{
+    font-family: '321impact';
+
+}
+
+#img{
+    width: 58px;
+    height: 53px;
+    margin: 3px;
+
+}
+#h{
+    transition: 10s;
+}
+.grow img{
+    transition: 1s ease;
+}
+.grow img:hover{
+    transform: scale(1.2);
+}
+
+#cos{
+    text-align: left;
+}
+#cn{
+    color: black;
+}
+#img2{
+    width: 35px;
+    height: 33px;
+    margin: 1px;
+
+}
+#bc{
+    border: 5px solid #56a9cd;
+        
+}
+.bcolor{
+    background-color: #56a9cd;
+}
