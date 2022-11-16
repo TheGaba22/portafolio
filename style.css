@@ -33,11 +33,10 @@ img{
 }
 
 .imagenes{
-    margin: 10px;
     text-align: center;
     padding: 10px;
     
-}
+} 
 .contenedor{
     background-color: white;
     width: 100%;
@@ -94,9 +93,9 @@ img{
     transform: scale(1.2);
 }
 
-#cos{
+/* #cos{
     text-align: left;
-}
+} */
 #cn{
     color: black;
 }
